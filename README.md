@@ -1,6 +1,6 @@
 # Frontend Mentor - Recipe Page Solution
 
-This is my solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm).
+This is my solution to the [Recipe page challenge on Frontend Mentor](https://github.com/SarahDomson/Recipe-Page-FM).
 
 ## Table of contents
 
@@ -21,8 +21,8 @@ This is my solution to the [Recipe page challenge on Frontend Mentor](https://ww
 
 ### Links
 
-- Live Site URL: [Recipe Page](https://your-live-site-url.com)
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
+- Live Site URL: [Recipe Page](https://vercel.com/sarahdomsons-projects/recipe-page-fm/83S3hqcRLvSE9tqRXFbRf45636XV)
+- Solution URL: [Frontend Mentor Solution](https://github.com/SarahDomson/Recipe-Page-FM)
 
 ## My process
 
